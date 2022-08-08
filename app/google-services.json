@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669020580812",
+    "project_id": "fir-database-51ccb",
+    "storage_bucket": "fir-database-51ccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669020580812:android:8673c7a4f01fc071174b69",
+        "android_client_info": {
+          "package_name": "uz.muhammadziyo.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669020580812-st5mcegph1caasp8g4bugn12hp2eogoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVZlfz_KfstP4iu53lM0qIMZUeENUVVjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669020580812-st5mcegph1caasp8g4bugn12hp2eogoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
